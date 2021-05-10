@@ -3,9 +3,10 @@
 You can use the [editor on GitHub](https://github.com/daniela-sandwich/top3SaoirseRonanMovies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 1. Lady Bird
-[image](653D5B15-3159-41A8-A70E-D8E0F7741D91.jpeg)
+[653D5B15-3159-41A8-A70E-D8E0F7741D91.jpeg](scr)
+
 2. Little Women
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
